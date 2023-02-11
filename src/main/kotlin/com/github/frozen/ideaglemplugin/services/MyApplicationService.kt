@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.frozen.ideaglemplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.frozen.ideaglemplugin.MyBundle
 
 class MyApplicationService {
 
